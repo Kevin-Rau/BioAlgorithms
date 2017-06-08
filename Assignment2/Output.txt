@@ -1,0 +1,16 @@
+
+File:	test3.fasta
+k-mer Length:	6
+
+k-mers 	Occurances
+ATATTA 	1581
+AATATT 	1523
+AAAAAA 	1465
+TATTAT 	1457
+TTTTTT 	1388
+k-mers 	Seq Count
+ATATTA 	578
+TATATT 	573
+ATAAAA 	569
+TAATAT 	550
+TATTAT 	539

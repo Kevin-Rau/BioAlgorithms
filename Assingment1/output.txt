@@ -1,0 +1,64 @@
+File:	S288C_R64.fasta
+Seq:	>chrI
+k-mer:	GGCCG
+
+Seq Length:	230218
+GC Content:	39.0 %
+
+>chrI 	Kevin_Rau_Assignment1.py	match	5644 	5649 	100.	+	.	ID: 1
+>chrI 	Kevin_Rau_Assignment1.py	match	15542 	15547 	100.	-	.	ID: 2
+>chrI 	Kevin_Rau_Assignment1.py	match	18247 	18252 	100.	+	.	ID: 3
+>chrI 	Kevin_Rau_Assignment1.py	match	24049 	24054 	100.	-	.	ID: 4
+>chrI 	Kevin_Rau_Assignment1.py	match	24465 	24470 	100.	+	.	ID: 5
+>chrI 	Kevin_Rau_Assignment1.py	match	29172 	29177 	100.	-	.	ID: 6
+>chrI 	Kevin_Rau_Assignment1.py	match	32032 	32037 	100.	+	.	ID: 7
+>chrI 	Kevin_Rau_Assignment1.py	match	33218 	33223 	100.	-	.	ID: 8
+>chrI 	Kevin_Rau_Assignment1.py	match	38921 	38926 	100.	+	.	ID: 9
+>chrI 	Kevin_Rau_Assignment1.py	match	40090 	40095 	100.	-	.	ID: 10
+>chrI 	Kevin_Rau_Assignment1.py	match	44635 	44640 	100.	+	.	ID: 11
+>chrI 	Kevin_Rau_Assignment1.py	match	45382 	45387 	100.	-	.	ID: 12
+>chrI 	Kevin_Rau_Assignment1.py	match	50633 	50638 	100.	+	.	ID: 13
+>chrI 	Kevin_Rau_Assignment1.py	match	61389 	61394 	100.	-	.	ID: 14
+>chrI 	Kevin_Rau_Assignment1.py	match	66231 	66236 	100.	+	.	ID: 15
+>chrI 	Kevin_Rau_Assignment1.py	match	68205 	68210 	100.	-	.	ID: 16
+>chrI 	Kevin_Rau_Assignment1.py	match	68994 	68999 	100.	+	.	ID: 17
+>chrI 	Kevin_Rau_Assignment1.py	match	69348 	69353 	100.	-	.	ID: 18
+>chrI 	Kevin_Rau_Assignment1.py	match	70221 	70226 	100.	+	.	ID: 19
+>chrI 	Kevin_Rau_Assignment1.py	match	71035 	71040 	100.	-	.	ID: 20
+>chrI 	Kevin_Rau_Assignment1.py	match	73243 	73248 	100.	+	.	ID: 21
+>chrI 	Kevin_Rau_Assignment1.py	match	84393 	84398 	100.	-	.	ID: 22
+>chrI 	Kevin_Rau_Assignment1.py	match	97922 	97927 	100.	+	.	ID: 23
+>chrI 	Kevin_Rau_Assignment1.py	match	105173 	105178 	100.	-	.	ID: 24
+>chrI 	Kevin_Rau_Assignment1.py	match	106433 	106438 	100.	+	.	ID: 25
+>chrI 	Kevin_Rau_Assignment1.py	match	106465 	106470 	100.	-	.	ID: 26
+>chrI 	Kevin_Rau_Assignment1.py	match	108973 	108978 	100.	+	.	ID: 27
+>chrI 	Kevin_Rau_Assignment1.py	match	113280 	113285 	100.	-	.	ID: 28
+>chrI 	Kevin_Rau_Assignment1.py	match	113712 	113717 	100.	+	.	ID: 29
+>chrI 	Kevin_Rau_Assignment1.py	match	118730 	118735 	100.	-	.	ID: 30
+>chrI 	Kevin_Rau_Assignment1.py	match	120765 	120770 	100.	+	.	ID: 31
+>chrI 	Kevin_Rau_Assignment1.py	match	130261 	130266 	100.	-	.	ID: 32
+>chrI 	Kevin_Rau_Assignment1.py	match	131794 	131799 	100.	+	.	ID: 33
+>chrI 	Kevin_Rau_Assignment1.py	match	134338 	134343 	100.	-	.	ID: 34
+>chrI 	Kevin_Rau_Assignment1.py	match	134814 	134819 	100.	+	.	ID: 35
+>chrI 	Kevin_Rau_Assignment1.py	match	144259 	144264 	100.	-	.	ID: 36
+>chrI 	Kevin_Rau_Assignment1.py	match	145784 	145789 	100.	+	.	ID: 37
+>chrI 	Kevin_Rau_Assignment1.py	match	148099 	148104 	100.	-	.	ID: 38
+>chrI 	Kevin_Rau_Assignment1.py	match	169908 	169913 	100.	+	.	ID: 39
+>chrI 	Kevin_Rau_Assignment1.py	match	172543 	172548 	100.	-	.	ID: 40
+>chrI 	Kevin_Rau_Assignment1.py	match	176453 	176458 	100.	+	.	ID: 41
+>chrI 	Kevin_Rau_Assignment1.py	match	176995 	177000 	100.	-	.	ID: 42
+>chrI 	Kevin_Rau_Assignment1.py	match	178039 	178044 	100.	+	.	ID: 43
+>chrI 	Kevin_Rau_Assignment1.py	match	187373 	187378 	100.	-	.	ID: 44
+>chrI 	Kevin_Rau_Assignment1.py	match	188877 	188882 	100.	+	.	ID: 45
+>chrI 	Kevin_Rau_Assignment1.py	match	190026 	190031 	100.	-	.	ID: 46
+>chrI 	Kevin_Rau_Assignment1.py	match	191666 	191671 	100.	+	.	ID: 47
+>chrI 	Kevin_Rau_Assignment1.py	match	192219 	192224 	100.	-	.	ID: 48
+>chrI 	Kevin_Rau_Assignment1.py	match	193569 	193574 	100.	+	.	ID: 49
+>chrI 	Kevin_Rau_Assignment1.py	match	195453 	195458 	100.	-	.	ID: 50
+>chrI 	Kevin_Rau_Assignment1.py	match	197409 	197414 	100.	+	.	ID: 51
+>chrI 	Kevin_Rau_Assignment1.py	match	197780 	197785 	100.	-	.	ID: 52
+>chrI 	Kevin_Rau_Assignment1.py	match	207962 	207967 	100.	+	.	ID: 53
+>chrI 	Kevin_Rau_Assignment1.py	match	209409 	209414 	100.	-	.	ID: 54
+>chrI 	Kevin_Rau_Assignment1.py	match	210264 	210269 	100.	+	.	ID: 55
+>chrI 	Kevin_Rau_Assignment1.py	match	228310 	228315 	100.	-	.	ID: 56
+>chrI 	Kevin_Rau_Assignment1.py	match	228927 	228932 	100.	+	.	ID: 57
